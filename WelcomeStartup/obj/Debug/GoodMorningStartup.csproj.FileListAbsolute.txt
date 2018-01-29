@@ -1,0 +1,15 @@
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\bin\Debug\GoodMorningStartup.exe.config
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\bin\Debug\GoodMorningStartup.exe
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\bin\Debug\GoodMorningStartup.pdb
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.csprojResolveAssemblyReference.cache
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\MainWindow.g.cs
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\App.g.cs
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup_MarkupCompile.cache
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup_MarkupCompile.lref
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\MainWindow.baml
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.g.resources
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.Properties.Resources.resources
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.csproj.GenerateResource.Cache
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.csproj.CoreCompileInputs.cache
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.exe
+F:\Programming\C# (Standard)\Projects\GoodMorningStartup\GoodMorningStartup\obj\Debug\GoodMorningStartup.pdb
